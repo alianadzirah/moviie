@@ -1,8 +1,8 @@
 need to download and put additional file
 
-file structure: moviie > node_modules
+file structure: moviie > node_modules & .next
 
-node_modules link: 
+moviie link: https://drive.google.com/drive/folders/16-UV5lYUVL9dxnfNTF6hHobEZifeeIxC?usp=drive_link
 
 too big file cannot upload directly into github
 

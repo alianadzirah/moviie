@@ -1,0 +1,12 @@
+need to download and put additional file
+
+file structure: moviie > node_modules
+
+node_modules link: 
+
+too big file cannot upload directly into github
+
+steps
+1. download node_modules
+2. put the node_modules folder inside moviie (refer file structure)
+3. run in terminal "yarn install"
